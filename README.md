@@ -12,7 +12,7 @@ I'm a **future Computer Engineer** with a deep passion for **software developmen
 ## 📫 How to Reach Me  
 - ✉️ Email: [pabloalco02@gmail.com](mailto:pabloalco02@gmail.com)  
 - 📞 Phone: +34 609 129 489
-- 👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+- 👔 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alcolea-aguilar-3a5389340/)  
 
 ## ⚡ Fun Fact  
 The **first computer virus**, created in 1986, wasn’t malicious—it was designed to monitor and prevent unauthorized software copies. And look at how things have turned out now!
