@@ -1,7 +1,7 @@
 # Hello and Welcome!! 👋 I'm Pablo Alcolea  
 
 Welcome to my GitHub profile!  
-I'm a **future Computer Engineering** with a deep passion for **software development**, **machine learning**, and **cloud computing**.
+I'm a **future Computer Engineer** with a deep passion for **software development**, **machine learning**, and **cloud computing**.
 
 ## 👀 About Me  
 - 🎓 Finalizing my studies in **Computer Engineering**.  
