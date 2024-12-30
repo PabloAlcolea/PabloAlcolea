@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm a **future Computer Engineer** with a deep passion for **software development**, **machine learning**, and **cloud computing**.
 
 ## 👀 About Me  
-- 🎓 Finalizing my studies in **Computer Engineering**.  
+- 🎓 Finalizing my studies in **Computer Science**.  
 - 💻 Currently working on projects that involve **data science** and **full-stack development and other same fields** .  
 - 🌱 Always looking to learn and grow.
 - 📄 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-4C1D1D?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1oze3nlNq8fwf6v4J8-Iq58WWBqoHGSNw/view)
